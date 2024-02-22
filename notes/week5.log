@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.2.13)  17 FEB 2024 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.2.13)  21 FEB 2024 22:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1237,59 +1237,59 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.67 \newpage
+l.70 \newpage
               [1{D:/MiTex Installation/fonts/enc/dvips/newpx/px-lms.enc}]
 
-d:/school/Spring 2024/discrete math/week-5-discrete/notes/week5.tex:70: LaTeX Error: There's no line here to end.
+d:/school/Spring 2024/discrete math/week-5-discrete/notes/week5.tex:73: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 \text
+l.73 \text
           {Abeyah Calpatura} \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
 [2]
 
-d:/school/Spring 2024/discrete math/week-5-discrete/notes/week5.tex:117: LaTeX Error: There's no line here to end.
+d:/school/Spring 2024/discrete math/week-5-discrete/notes/week5.tex:120: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 \text
+l.120 \text
            {Abeyah Calpatura} \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
+Underfull \hbox (badness 10000) in paragraph at lines 120--123
 
  []
 
 [3]
 
-d:/school/Spring 2024/discrete math/week-5-discrete/notes/week5.tex:177: LaTeX Error: There's no line here to end.
+d:/school/Spring 2024/discrete math/week-5-discrete/notes/week5.tex:180: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177 \text
+l.180 \text
            {Abeyah Calpatura} \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1309,13 +1309,13 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  37071 strings out of 476476
  737650 string characters out of 5797045
- 1941978 words of memory out of 5000000
+ 1942978 words of memory out of 5000000
  58384 multiletter control sequences out of 15000+600000
  598172 words of font info for 146 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  99i,13n,102p,602b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/MiTex Installation/fonts/type1/public/newpx/NewPXMI.pfb><D:/MiTex Installation/fonts/type1/public/newpx/NewPXMI_gnu.pfb><D:/MiTex Installation/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MiTex Installation/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiTex Installation/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/MiTex Installation/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiTex Installation/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MiTex Installation/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MiTex Installation/fonts/type1/public/newpx/pxmiaX.pfb><D:/MiTex Installation/fonts/type1/public/newpx/pxsys.pfb>
-Output written on week5.pdf (5 pages, 134498 bytes).
+Output written on week5.pdf (5 pages, 135367 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
